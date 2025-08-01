@@ -26,6 +26,7 @@ Este notebook foi cuidadosamente elaborado para proporcionar uma experiência pr
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/open-day-2025/blob/main/ML_trad_titanic.ipynb)
 
+chave  =  [https://pt.anotepad.com/notes/k6b5m7pc](https://pt.anotepad.com/notes/k6b5m7pc)
 
 
 Pronto para começar? 🚀
